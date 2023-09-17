@@ -3,4 +3,4 @@
 - If the exact line number is available in C# code or the assembly has a pbd file it will print that line number instead.
 
 # Installation
-Drop IlLine.dll into` \BepInEx\plugins\`
+Drop IlLine.dll into `\BepInEx\plugins\`
